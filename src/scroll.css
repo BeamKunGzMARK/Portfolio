@@ -1,0 +1,62 @@
+App {
+    text-align: center;
+    height: 5000px;
+}
+/* checkinf */
+.scrollTop {
+    position: fixed;
+    width: 60px;
+    bottom: 20px;
+    align-items: center;
+    height: 20px;
+    justify-content: center;
+    z-index: 1000;
+    cursor: pointer;
+    animation: fadeIn 0.3s;
+    transition: opacity 0.4s;
+    opacity: 0.5;
+    color: white;
+    left: 95%;
+    margin-bottom: 1%;
+}
+
+.scrollTop:hover {
+    opacity: 1;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 0.5;
+    }
+}
+
+@media (min-width: 760px) and (max-width: 1350px) {
+    .scrollTop {
+        left: 92%;
+    }
+}
+
+@media (min-width: 450px) and (max-width: 759px) {
+    .scrollTop {
+        left: 87%;
+    }
+}
+
+@media (min-width: 340px) and (max-width: 449px) {
+    .scrollTop {
+        margin-bottom: 0;
+        padding: 5px;
+        left: 85%;
+    }
+}
+
+@media (max-width: 339px) {
+    .scrollTop {
+        margin-bottom: 0;
+        padding: 5px;
+        left: 80%;
+    }
+}

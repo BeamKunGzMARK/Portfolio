@@ -1,0 +1,152 @@
+[
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/jumpstart-Beam.jpg",
+    "name": "JUMPSTART 2021",
+    "description": "depa Thailand"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/CAI CAMP.jpg",
+    "name": "THE CREATIVE AI CAMP 2021",
+    "description": "PARTICIPATION IN THE CREATIVE AI CAMP 2021 SELECTION by CPAll"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/TU DATA CAMP.png",
+    "name": "Participate TU DATA CAMP",
+    "description": "TU - มหาวิทยาลัยธรรมศาสตร์"
+  },
+  {
+    "year": "2020",
+    "logo": "/images/portfolio/MSP CERTIFICATE NATCHA.jpg",
+    "name": "Online Learning Hack",
+    "description": "Microsoft"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Javascript freecodecamp.jpeg",
+    "name": "JS Algorithms and Data Structures",
+    "description": "freeCodeCamp"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Code Editor_page.jpg",
+    "name": "Code Editor",
+    "description": "Grasshopper"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Coding Fundamentals I.jpg",
+    "name": "Coding Fundamentals",
+    "description": "Grasshopper"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Coding Fundamentals II.jpg",
+    "name": "Coding Fundamentals II",
+    "description": "Grasshopper"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Intro to Webpages_page.jpg",
+    "name": "Intro to Webpages",
+    "description": "Grasshopper"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/completion-for-essential-sql-for-everyone.jpg",
+    "name": "Essential SQL for Everyone",
+    "description": "BorntoDev"
+  },
+  {
+    "year": "2020",
+    "logo": "/images/portfolio/School/ค่ายSTEM.jpg",
+    "name": "STEM Education",
+    "description": "Suankularb Wittiyalai Nonthaburi"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/ReactJsNotes.jpg",
+    "name": "React JS Notes App & Crash Course",
+    "description": "Udemy"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Webservices API Testing with Postman - Complete Guide.jpg",
+    "name": "Webservices API Testing with Postman Complete Guide",
+    "description": "Udemy"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Ethereum and Solidity The Complete Developer's Guide.jpg",
+    "name": "Ethereum and Solidity The Complete Developer's Guide",
+    "description": "Udemy"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Introduction to Computer Science.png",
+    "name": "Introduction to Computer Science",
+    "description": "BorntoDev"
+  },
+  {
+    "year": "2020",
+    "logo": "/images/portfolio/Certificate minecraft Hour of code.jpg",
+    "name": "Minecraft",
+    "description": "Hour of code"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/AI for Oceans.jpg",
+    "name": "AI for Ocean",
+    "description": "Hour of Code"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/Computer basic concepts.jpg",
+    "name": "Basic Concepts of Computer Science",
+    "description": "Hour of Code"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/KMITL-AI2564.png",
+    "name": "Join Event Workshop 2021 - ROBO & AI",
+    "description": "School Of Engineering - KMITL"
+  },
+  {
+    "logo": "/images/portfolio/KMITL-SOFTEN2564.png",
+    "year": "2021",
+    "name": "Participate Workshop 2021 - SoftEN",
+    "description": "School Of Engineering - KMITL"
+  },
+  {
+    "logo": "/images/portfolio/Prachan_THAMMASAT.jpg",
+    "year": "2021",
+    "name": "Participate Tha Prachan Open House 2021",
+    "description": "TU - มหาวิทยาลัยธรรมศาสตร์"
+  },
+  {
+    "year": "2020",
+    "logo": "/images/portfolio/School/4-9grade371.png",
+    "name": "High School, Academic Year 2020, Semester 1, GPA 3.71",
+    "description": "Suankularb Wittiyalai Nonthaburi"
+  },
+  {
+    "year": "2020",
+    "logo": "/images/portfolio/School/4-9grade388.png",
+    "name": "High School, Academic Year 2020, Semester 2, GPA 3.88",
+    "description": "Suankularb Wittiyalai Nonthaburi"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/School/LeaderOfSTEM.jpg",
+    "name": "STEM For Life Rally has been selected as the best assembly of the year 2021.",
+    "description": "Suankularb Wittiyalai Nonthaburi"
+  },
+  {
+    "year": "2021",
+    "logo": "/images/portfolio/School/STEMBEST.jpg",
+    "name": "STEM For Life Rally has been selected as the best assembly of the year 2021.",
+    "description": "Suankularb Wittiyalai Nonthaburi"
+  }
+]
