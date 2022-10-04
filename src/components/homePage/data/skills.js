@@ -60,7 +60,7 @@ const skills = [
   //   "link": "https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control"
   // },
   {
-    logo: "https://raw.githubusercontent.com/BeamKunGzMARK/BeamKunGzMARK/main/logo/mongodb.svg",
+    logo: "https://raw.githubusercontent.com/BeamNawapat/BeamNawapat/main/logo/mongodb.svg",
     name: "MongoDB",
     link: "https://docs.mongodb.com/guides/",
   },

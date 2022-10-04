@@ -39,7 +39,7 @@ const GitHub = () => {
         </div>
 
         <codersrank-activity
-          username="BeamKunGzMARK"
+          username="BeamNawapat"
           className="paddinggithub"
           labels
           legend
@@ -87,7 +87,7 @@ const GitHub = () => {
             </Alert>
           </Col> */}
 
-          {/* <a href="https://app.daily.dev/BeamKunGzMARK">
+          {/* <a href="https://app.daily.dev/BeamNawapat">
             <img
               src="https://api.daily.dev/devcards/858b6e137c504e4c894247f52e9358e5.png?r=eyp"
               width="400"
